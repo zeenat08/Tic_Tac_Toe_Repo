@@ -10,11 +10,6 @@ namespace Tic_Tac_Toe
             
             char[] gameBoard = new char[10];
 
-        internal void showBoard()
-        {
-            throw new NotImplementedException();
-        }
-    
         public void createGameBoard()
             {
 
