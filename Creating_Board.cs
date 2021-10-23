@@ -14,10 +14,7 @@ namespace Tic_Tac_Toe
         {
             throw new NotImplementedException();
         }
-
-        //static char[] gameBoard = {' ',' ' };
-
-        //method for creating empty GameBoard        
+    
         public void createGameBoard()
             {
 
