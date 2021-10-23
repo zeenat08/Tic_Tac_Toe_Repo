@@ -8,7 +8,7 @@ namespace Tic_Tac_Toe
         {
 
             
-            char[] gameBoard = new char[10];
+          char[] gameBoard = new char[10];
 
         public void createGameBoard()
             {
